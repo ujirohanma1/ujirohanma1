@@ -14,3 +14,7 @@ I’m a developer who always building something that pushes my limits.
 | **React** | **WebSockets** (Socket.io) | **Git** & **Vercel** |
 | **Tailwind CSS** | **Node.js** | **SEO Optimization** |
 
+## 🌐 Portfolio & Connect
+* **Portfolio:** [Visit My Site](https://webdevrajesh.info/)
+* **LinkedIn:** [Connect with me](https://www.linkedin.com/in/itsrajeshverma/)
+* **X:** [Connect with me](https://x.com/its_rajesh_85)
