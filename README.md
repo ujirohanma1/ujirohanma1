@@ -16,5 +16,5 @@ I’m a developer who always building something that pushes my limits.
 
 ## 🌐 Portfolio & Connect
 * **Portfolio:** [Visit My Site](https://webdevrajesh.info/)
-* **LinkedIn:** [Connect with me](https://www.linkedin.com/in/itsrajeshverma/)
-* **X:** [Connect with me](https://x.com/its_rajesh_85)
+* **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/itsrajeshverma/)
+* **X:** [Connect with me on X](https://x.com/its_rajesh_85)
